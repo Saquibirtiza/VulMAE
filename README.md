@@ -1,5 +1,13 @@
-# VulMAE
+# VulMAE#
+=========
 Code for paper "VulMAE: Graph Masked Autoencoders for Vulnerability Detection from Source and Binary Codes", FPS 2023
+
+The major Dependencies:
+======================
+* Python >= 3.7
+* [Pytorch](https://pytorch.org/) >= 1.9.0 
+* [dgl](https://www.dgl.ai/) >= 0.7.2
+* pyyaml == 5.4.1
 
 Sample Run:
 ==========
